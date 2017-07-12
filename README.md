@@ -1,2 +1,2 @@
 # ifs-fractal-playground
-A Swift playground that demonstrates Iterated function systems (IFS) fractals.
+A Swift playground that demonstrates *Iterated Function Systems* (IFS) fractals.
