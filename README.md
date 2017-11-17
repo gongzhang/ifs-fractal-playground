@@ -17,7 +17,7 @@ To create a IFS factal, you only need two things:
 1. an initial *line segement* (viz. *vector* or `Vec` in code), which has a start point and an end point.
 2. a *transformation rule* that turns one *line segement* into many.
 
-<img src="./Images/1.png" width="500">
+<img src="./Images/1.png" width="700">
 
 In the example above, `Vec(start: (-5, -8), end: (0, -4))` is the initial vector, which makes the trunk of the tree. Then we have a rule (the array in code) says "turns the trunk into three branches". The rule will be iterated on each branches again and again. Finally we get the whole tree 🌲.
 
